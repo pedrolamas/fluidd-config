@@ -1,0 +1,4 @@
+[submodule "base-config"]
+	path = base-config
+	url = https://github.com/mainsail-crew/mainsail-config
+	branch = master
